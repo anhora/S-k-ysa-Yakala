@@ -1,0 +1,6006 @@
+fileFormatVersion: 2
+guid: d096b0c0be61a314eb105364270fd915
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8784807492819786060
+    second: patlama1_0
+  - first:
+      213: 2615914531805717628
+    second: patlama1_1
+  - first:
+      213: -1619345162137663465
+    second: patlama1_2
+  - first:
+      213: -5754364709684679156
+    second: patlama1_3
+  - first:
+      213: -2341429921827271620
+    second: patlama1_4
+  - first:
+      213: -8667941003075114966
+    second: patlama1_5
+  - first:
+      213: -578245184494164613
+    second: patlama1_6
+  - first:
+      213: -7254761645154805371
+    second: patlama1_7
+  - first:
+      213: 7617799528067455195
+    second: patlama1_8
+  - first:
+      213: 3611312518347566517
+    second: patlama1_9
+  - first:
+      213: -8983391743805205575
+    second: patlama1_10
+  - first:
+      213: 8235648337649559186
+    second: patlama1_11
+  - first:
+      213: -7775267656202480586
+    second: patlama1_12
+  - first:
+      213: 3977086918530071815
+    second: patlama1_13
+  - first:
+      213: 1441705288554518009
+    second: patlama1_14
+  - first:
+      213: 3476848555560474954
+    second: patlama1_15
+  - first:
+      213: -8997255013126501644
+    second: patlama1_16
+  - first:
+      213: 1477586290518896512
+    second: patlama1_17
+  - first:
+      213: -4592265475744582239
+    second: patlama1_18
+  - first:
+      213: -6642871147618988860
+    second: patlama1_19
+  - first:
+      213: -8828825706225101070
+    second: patlama1_20
+  - first:
+      213: 7104820209659939176
+    second: patlama1_21
+  - first:
+      213: 7222727995045610874
+    second: patlama1_22
+  - first:
+      213: 4096772324356910112
+    second: patlama1_23
+  - first:
+      213: -6109050721560859025
+    second: patlama1_24
+  - first:
+      213: -66859064702995343
+    second: patlama1_25
+  - first:
+      213: 8189743345255462816
+    second: patlama1_26
+  - first:
+      213: -3210359125004025387
+    second: patlama1_27
+  - first:
+      213: 8944133304378672103
+    second: patlama1_28
+  - first:
+      213: 8342438045668937469
+    second: patlama1_29
+  - first:
+      213: 7481130563146377562
+    second: patlama1_30
+  - first:
+      213: 1647892121341096847
+    second: patlama1_31
+  - first:
+      213: 1515513925019575224
+    second: patlama1_32
+  - first:
+      213: -3827628348435498200
+    second: patlama1_33
+  - first:
+      213: 980075007590125663
+    second: patlama1_34
+  - first:
+      213: 3079399488563677251
+    second: patlama1_35
+  - first:
+      213: -7129991490347975366
+    second: patlama1_36
+  - first:
+      213: -7197253689261279844
+    second: patlama1_37
+  - first:
+      213: 8932450279047860994
+    second: patlama1_38
+  - first:
+      213: 6076743972591510839
+    second: patlama1_39
+  - first:
+      213: -4737521920841912372
+    second: patlama1_40
+  - first:
+      213: 6018336613485238147
+    second: patlama1_41
+  - first:
+      213: 2907738053100310428
+    second: patlama1_42
+  - first:
+      213: 4990539143623284713
+    second: patlama1_43
+  - first:
+      213: 115398452783295116
+    second: patlama1_44
+  - first:
+      213: 6235081744123823105
+    second: patlama1_45
+  - first:
+      213: 2511878854759530872
+    second: patlama1_46
+  - first:
+      213: 7319238705150481614
+    second: patlama1_47
+  - first:
+      213: 1251301540764974155
+    second: patlama1_48
+  - first:
+      213: 2997380237439847618
+    second: patlama1_49
+  - first:
+      213: 6774302463898967244
+    second: patlama1_50
+  - first:
+      213: 147654540653329600
+    second: patlama1_51
+  - first:
+      213: -8589416098313871703
+    second: patlama1_52
+  - first:
+      213: 1310822204065531459
+    second: patlama1_53
+  - first:
+      213: -194605498760404611
+    second: patlama1_54
+  - first:
+      213: 6639683550021832234
+    second: patlama1_55
+  - first:
+      213: 4440065133142785499
+    second: patlama1_56
+  - first:
+      213: 7521703507876816000
+    second: patlama1_57
+  - first:
+      213: 40805384659071133
+    second: patlama1_58
+  - first:
+      213: -3990070638924924598
+    second: patlama1_59
+  - first:
+      213: 1523910047562737015
+    second: patlama1_60
+  - first:
+      213: 9135156045236098618
+    second: patlama1_61
+  - first:
+      213: -7405797330265655233
+    second: patlama1_62
+  - first:
+      213: 4806353074713117847
+    second: patlama1_63
+  - first:
+      213: -3043056484969857234
+    second: patlama1_64
+  - first:
+      213: 7734853691412655249
+    second: patlama1_65
+  - first:
+      213: -2065002638616879100
+    second: patlama1_66
+  - first:
+      213: -3055307997991717661
+    second: patlama1_67
+  - first:
+      213: -3151164848701301792
+    second: patlama1_68
+  - first:
+      213: -7574046524370051887
+    second: patlama1_69
+  - first:
+      213: 6846985277486060776
+    second: patlama1_70
+  - first:
+      213: 2178985774198590860
+    second: patlama1_71
+  - first:
+      213: -193630755753591866
+    second: patlama1_72
+  - first:
+      213: 639395441344677953
+    second: patlama1_73
+  - first:
+      213: -1290914711211553954
+    second: patlama1_74
+  - first:
+      213: -3806648840583481223
+    second: patlama1_75
+  - first:
+      213: 3366741133050587374
+    second: patlama1_76
+  - first:
+      213: -7840880524545801285
+    second: patlama1_77
+  - first:
+      213: 1691476102177798557
+    second: patlama1_78
+  - first:
+      213: -5153104246897890112
+    second: patlama1_79
+  - first:
+      213: 4978910551190977060
+    second: patlama1_80
+  - first:
+      213: -6664705016874602267
+    second: patlama1_81
+  - first:
+      213: 6979232151257580872
+    second: patlama1_82
+  - first:
+      213: 2437099963307485100
+    second: patlama1_83
+  - first:
+      213: -4246396385528541513
+    second: patlama1_84
+  - first:
+      213: 8753525580064101147
+    second: patlama1_85
+  - first:
+      213: 7034318104369482838
+    second: patlama1_86
+  - first:
+      213: 3031940041686786965
+    second: patlama1_87
+  - first:
+      213: 462424043524162667
+    second: patlama1_88
+  - first:
+      213: -2629408068902191760
+    second: patlama1_89
+  - first:
+      213: 2142280831105513682
+    second: patlama1_90
+  - first:
+      213: -4926482140765548039
+    second: patlama1_91
+  - first:
+      213: 5288082117444577602
+    second: patlama1_92
+  - first:
+      213: 3777921683607144899
+    second: patlama1_93
+  - first:
+      213: -7475818874952947571
+    second: patlama1_94
+  - first:
+      213: 4915797709114763947
+    second: patlama1_95
+  - first:
+      213: -925289752070778477
+    second: patlama1_96
+  - first:
+      213: -4988118440351735271
+    second: patlama1_97
+  - first:
+      213: 7598363820038868515
+    second: patlama1_98
+  - first:
+      213: -7689277950404246935
+    second: patlama1_99
+  - first:
+      213: 1856778656422794690
+    second: patlama1_100
+  - first:
+      213: -4469623751407683151
+    second: patlama1_101
+  - first:
+      213: -1865629379078696805
+    second: patlama1_102
+  - first:
+      213: -2367986673459387640
+    second: patlama1_103
+  - first:
+      213: -4229067660814089919
+    second: patlama1_104
+  - first:
+      213: -338242941903473783
+    second: patlama1_105
+  - first:
+      213: 4432316112650367422
+    second: patlama1_106
+  - first:
+      213: -7945297912432256305
+    second: patlama1_107
+  - first:
+      213: -1703720748920865969
+    second: patlama1_108
+  - first:
+      213: 3957958177938780288
+    second: patlama1_109
+  - first:
+      213: -8107365953678644915
+    second: patlama1_110
+  - first:
+      213: -1272897596703604049
+    second: patlama1_111
+  - first:
+      213: 5777801037450192329
+    second: patlama1_112
+  - first:
+      213: -3874298085437232141
+    second: patlama1_113
+  - first:
+      213: -6721971765045027316
+    second: patlama1_114
+  - first:
+      213: -2525730631535348299
+    second: patlama1_115
+  - first:
+      213: 1248579460199824292
+    second: patlama1_116
+  - first:
+      213: -5723214578340734506
+    second: patlama1_117
+  - first:
+      213: -693134371094203073
+    second: patlama1_118
+  - first:
+      213: 8302015694468614503
+    second: patlama1_119
+  - first:
+      213: 2988042679376193597
+    second: patlama1_120
+  - first:
+      213: 7686772377970638957
+    second: patlama1_121
+  - first:
+      213: -6268597642145254913
+    second: patlama1_122
+  - first:
+      213: 8776145474222974397
+    second: patlama1_123
+  - first:
+      213: 8940535290513272449
+    second: patlama1_124
+  - first:
+      213: -5601833004692038781
+    second: patlama1_125
+  - first:
+      213: 7339506461801177603
+    second: patlama1_126
+  - first:
+      213: 2891467767565758331
+    second: patlama1_127
+  - first:
+      213: -7986570858297716234
+    second: patlama1_128
+  - first:
+      213: 453582399553739954
+    second: patlama1_129
+  - first:
+      213: 7296756566322901659
+    second: patlama1_130
+  - first:
+      213: -4523719504725401323
+    second: patlama1_131
+  - first:
+      213: -6875905432967209430
+    second: patlama1_132
+  - first:
+      213: 5652118933003360960
+    second: patlama1_133
+  - first:
+      213: -7342733829322259984
+    second: patlama1_134
+  - first:
+      213: -3325011065377274071
+    second: patlama1_135
+  - first:
+      213: 7263647542314262026
+    second: patlama1_136
+  - first:
+      213: -3648439984784933132
+    second: patlama1_137
+  - first:
+      213: -7848889781582801172
+    second: patlama1_138
+  - first:
+      213: -5556659785930869464
+    second: patlama1_139
+  - first:
+      213: 8565255840145914948
+    second: patlama1_140
+  - first:
+      213: 7066384801317967383
+    second: patlama1_141
+  - first:
+      213: -3314074854017115680
+    second: patlama1_142
+  - first:
+      213: -6937981952017229474
+    second: patlama1_143
+  - first:
+      213: -2462699872103936680
+    second: patlama1_144
+  - first:
+      213: -3186254397634833075
+    second: patlama1_145
+  - first:
+      213: -4313483868218310709
+    second: patlama1_146
+  - first:
+      213: 7232234829389218808
+    second: patlama1_147
+  - first:
+      213: 5672036663597670730
+    second: patlama1_148
+  - first:
+      213: -2308247342348816518
+    second: patlama1_149
+  - first:
+      213: -5616810940145872405
+    second: patlama1_150
+  - first:
+      213: -3085390185706828794
+    second: patlama1_151
+  - first:
+      213: 6069749025987407118
+    second: patlama1_152
+  - first:
+      213: 5469306289500052155
+    second: patlama1_153
+  - first:
+      213: -3865970894671736748
+    second: patlama1_154
+  - first:
+      213: -7791490773633162518
+    second: patlama1_155
+  - first:
+      213: -3074941223808025170
+    second: patlama1_156
+  - first:
+      213: 2074000938423287469
+    second: patlama1_157
+  - first:
+      213: 2757815522196963606
+    second: patlama1_158
+  - first:
+      213: 5132209300155627549
+    second: patlama1_159
+  - first:
+      213: -8407917967192959039
+    second: patlama1_160
+  - first:
+      213: 7726592005127922947
+    second: patlama1_161
+  - first:
+      213: 6091842806386610270
+    second: patlama1_162
+  - first:
+      213: 6126192568212991093
+    second: patlama1_163
+  - first:
+      213: 498498643719296948
+    second: patlama1_164
+  - first:
+      213: 3716727782259301634
+    second: patlama1_165
+  - first:
+      213: -2095000331018710699
+    second: patlama1_166
+  - first:
+      213: -6346777173890232185
+    second: patlama1_167
+  - first:
+      213: 558048137176412886
+    second: patlama1_168
+  - first:
+      213: -1358740795497448783
+    second: patlama1_169
+  - first:
+      213: -2255731595297614877
+    second: patlama1_170
+  - first:
+      213: 5280929618922034324
+    second: patlama1_171
+  - first:
+      213: 3483380391109077664
+    second: patlama1_172
+  - first:
+      213: -166499019659056021
+    second: patlama1_173
+  - first:
+      213: -2195749132012881362
+    second: patlama1_174
+  - first:
+      213: 2913592308703127043
+    second: patlama1_175
+  - first:
+      213: -8773467695383579048
+    second: patlama1_176
+  - first:
+      213: 5323430887541954325
+    second: patlama1_177
+  - first:
+      213: 5940326259714120173
+    second: patlama1_178
+  - first:
+      213: -1477694283954090719
+    second: patlama1_179
+  - first:
+      213: -5888472347593419746
+    second: patlama1_180
+  - first:
+      213: 7110373875618420431
+    second: patlama1_181
+  - first:
+      213: -7000977038000937757
+    second: patlama1_182
+  - first:
+      213: 8292847825253330506
+    second: patlama1_183
+  - first:
+      213: 5842204919705469210
+    second: patlama1_184
+  - first:
+      213: 2397817228578314994
+    second: patlama1_185
+  - first:
+      213: -1491996148996105918
+    second: patlama1_186
+  - first:
+      213: -3518385694128832422
+    second: patlama1_187
+  - first:
+      213: 7814211213326959889
+    second: patlama1_188
+  - first:
+      213: -4806522892754277417
+    second: patlama1_189
+  - first:
+      213: 655237587598454042
+    second: patlama1_190
+  - first:
+      213: -2959533004207227071
+    second: patlama1_191
+  - first:
+      213: -4204146151558746348
+    second: patlama1_192
+  - first:
+      213: 5592948590640610653
+    second: patlama1_193
+  - first:
+      213: 4030771687002779135
+    second: patlama1_194
+  - first:
+      213: -3249634901335433186
+    second: patlama1_195
+  - first:
+      213: -8092965851900392086
+    second: patlama1_196
+  - first:
+      213: 6487371785988345534
+    second: patlama1_197
+  - first:
+      213: -4702017430717282408
+    second: patlama1_198
+  - first:
+      213: 8586510755571477557
+    second: patlama1_199
+  - first:
+      213: -4878624866894231748
+    second: patlama1_200
+  - first:
+      213: -8947238143065955950
+    second: patlama1_201
+  - first:
+      213: 3932926998515728407
+    second: patlama1_202
+  - first:
+      213: 3418757709782113749
+    second: patlama1_203
+  - first:
+      213: -2915392795013295106
+    second: patlama1_204
+  - first:
+      213: 3975173029525048341
+    second: patlama1_205
+  - first:
+      213: -1150461811309592452
+    second: patlama1_206
+  - first:
+      213: -5733320936306370300
+    second: patlama1_207
+  - first:
+      213: -5206972484500568953
+    second: patlama1_208
+  - first:
+      213: 8150668665115808184
+    second: patlama1_209
+  - first:
+      213: -6850572237192255714
+    second: patlama1_210
+  - first:
+      213: -3667853175481559104
+    second: patlama1_211
+  - first:
+      213: 6240561972304503410
+    second: patlama1_212
+  - first:
+      213: 3621232374800364222
+    second: patlama1_213
+  - first:
+      213: -7526377107690781429
+    second: patlama1_214
+  - first:
+      213: -5057267645701583254
+    second: patlama1_215
+  - first:
+      213: -5903151992891733914
+    second: patlama1_216
+  - first:
+      213: 5477873635930939400
+    second: patlama1_217
+  - first:
+      213: -4779476415414545457
+    second: patlama1_218
+  - first:
+      213: 5431707102843912807
+    second: patlama1_219
+  - first:
+      213: -3346805892808118867
+    second: patlama1_220
+  - first:
+      213: -3972012672152924548
+    second: patlama1_221
+  - first:
+      213: -4943888008781744013
+    second: patlama1_222
+  - first:
+      213: 6788779372328206174
+    second: patlama1_223
+  - first:
+      213: 5476956449485161772
+    second: patlama1_224
+  - first:
+      213: -8320144794651129523
+    second: patlama1_225
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: patlama1_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 747
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b669421128161680800000000000000
+      internalID: -8784807492819786060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 746
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74ef0f28689d4420800000000000000
+      internalID: 2615914531805717628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 747
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718890a972ee689e0800000000000000
+      internalID: -1619345162137663465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 747
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e6333d8c36420b0800000000000000
+      internalID: -5754364709684679156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 746
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cc30b34e1918fd0800000000000000
+      internalID: -2341429921827271620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 746
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a282aa9159945b780800000000000000
+      internalID: -8667941003075114966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 754
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7525218119a9f7f0800000000000000
+      internalID: -578245184494164613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 746
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5895b6a98b8e15b90800000000000000
+      internalID: -7254761645154805371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 746
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd859985f4cd7b960800000000000000
+      internalID: 7617799528067455195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 746
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd27051a95fd1230800000000000000
+      internalID: 3611312518347566517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 746
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b350581ec4945380800000000000000
+      internalID: -8983391743805205575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 746
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29663ac5786ea4270800000000000000
+      internalID: 8235648337649559186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 746
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63497760343b81490800000000000000
+      internalID: -7775267656202480586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_13
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 746
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d76db1b73713730800000000000000
+      internalID: 3977086918530071815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_14
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 746
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5181b4257f10410800000000000000
+      internalID: 1441705288554518009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_15
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 746
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a491304175f304030800000000000000
+      internalID: 3476848555560474954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_16
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 746
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa0efc2c34532380800000000000000
+      internalID: -8997255013126501644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_17
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 746
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fad5317e0718410800000000000000
+      internalID: 1477586290518896512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_18
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 746
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a534f371eef440c0800000000000000
+      internalID: -4592265475744582239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 726
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc8a7df2e7cfc3a0800000000000000
+      internalID: -6642871147618988860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 728
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f69d9c1cc5b97580800000000000000
+      internalID: -8828825706225101070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 725
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8690cc57654699260800000000000000
+      internalID: 7104820209659939176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 724
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7586f508d84c3460800000000000000
+      internalID: 7222727995045610874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 724
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ce1fe29b8aad830800000000000000
+      internalID: 4096772324356910112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 722
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e65826cba483ba0800000000000000
+      internalID: -6109050721560859025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 723
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174fc5ee808721ff0800000000000000
+      internalID: -66859064702995343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_26
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 723
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7329f6e20d7a170800000000000000
+      internalID: 8189743345255462816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_27
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 723
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d183b092638273d0800000000000000
+      internalID: -3210359125004025387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_28
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 723
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e34b3f2ad1ff1c70800000000000000
+      internalID: 8944133304378672103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_29
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 723
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe0dc0d33b46c370800000000000000
+      internalID: 8342438045668937469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_30
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 725
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5968a64c9052d760800000000000000
+      internalID: 7481130563146377562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_31
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 724
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8373b8472d7ed610800000000000000
+      internalID: 1647892121341096847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_32
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 723
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b323f0a2ef280510800000000000000
+      internalID: 1515513925019575224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_33
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 724
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b7947fb4881eac0800000000000000
+      internalID: -3827628348435498200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_34
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 724
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50d5a8d60de99d00800000000000000
+      internalID: 980075007590125663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_35
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 724
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3488b5df4893cba20800000000000000
+      internalID: 3079399488563677251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_36
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 726
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d304e048e2d0d90800000000000000
+      internalID: -7129991490347975366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 701
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95363df6e73e1c90800000000000000
+      internalID: -7197253689261279844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_38
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 700
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2039c70e33076fb70800000000000000
+      internalID: 8932450279047860994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 701
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7352055727ee45450800000000000000
+      internalID: 6076743972591510839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_40
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 701
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf6798d9e0f04eb0800000000000000
+      internalID: -4737521920841912372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_41
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 700
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387d381734d658350800000000000000
+      internalID: 6018336613485238147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_42
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 700
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f0eea7a5c5a5820800000000000000
+      internalID: 2907738053100310428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_43
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7195df8e4f14540800000000000000
+      internalID: 4990539143623284713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_44
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 700
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a27c9084af99100800000000000000
+      internalID: 115398452783295116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_45
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 700
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1040608bfc5778650800000000000000
+      internalID: 6235081744123823105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_46
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 700
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871c1c8828cfbd220800000000000000
+      internalID: 2511878854759530872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_47
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 700
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4d8c6c2d8239560800000000000000
+      internalID: 7319238705150481614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_48
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 700
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cf1342f148d5110800000000000000
+      internalID: 1251301540764974155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_49
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 700
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc065f175d89920800000000000000
+      internalID: 2997380237439847618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_50
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc50c9f238230e50800000000000000
+      internalID: 6774302463898967244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_51
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc7d1db5039c0200800000000000000
+      internalID: 147654540653329600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_52
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 700
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aedaf731934cc880800000000000000
+      internalID: -8589416098313871703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_53
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 700
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346450d79d9f03210800000000000000
+      internalID: 1310822204065531459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_54
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 676
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d716c07745f9c4df0800000000000000
+      internalID: -194605498760404611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_55
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 677
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e4e0c9205e42c50800000000000000
+      internalID: 6639683550021832234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_56
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 680
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddb290d6b74e9d30800000000000000
+      internalID: 4440065133142785499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 677
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084aecc1d75726860800000000000000
+      internalID: 7521703507876816000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_58
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 680
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90f689f748f09000800000000000000
+      internalID: 40805384659071133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_59
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 661
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49f92ae4eb60a8c0800000000000000
+      internalID: -3990070638924924598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_60
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 678
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77520ae3d14062510800000000000000
+      internalID: 1523910047562737015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 677
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a365f04e50896ce70800000000000000
+      internalID: 9135156045236098618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_62
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 676
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38baf2d092593990800000000000000
+      internalID: -7405797330265655233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_63
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 677
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c16308a893b240800000000000000
+      internalID: 4806353074713117847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_64
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 681
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f3cedef34e4c5d0800000000000000
+      internalID: -3043056484969857234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_65
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 676
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c254a8378b75b60800000000000000
+      internalID: 7734853691412655249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_66
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 676
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4002ff08a03a753e0800000000000000
+      internalID: -2065002638616879100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_67
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 676
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e43b44409d5995d0800000000000000
+      internalID: -3055307997991717661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_68
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 676
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb16740440d444d0800000000000000
+      internalID: -3151164848701301792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_69
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 676
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc14aaa0d493e690800000000000000
+      internalID: -7574046524370051887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_70
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 676
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4d2ee35d0650f50800000000000000
+      internalID: 6846985277486060776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_71
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 676
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d8cb154005d3e10800000000000000
+      internalID: 2178985774198590860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_72
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 676
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb77b18ad5105df0800000000000000
+      internalID: -193630755753591866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_73
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 679
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1488a5824c69fd800800000000000000
+      internalID: 639395441344677953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bc8e2e8efb51ee0800000000000000
+      internalID: -1290914711211553954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_75
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 658
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9787e584c011c2bc0800000000000000
+      internalID: -3806648840583481223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_76
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 654
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee82d26093119be20800000000000000
+      internalID: 3366741133050587374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_77
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 653
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb34b28a4b89f2390800000000000000
+      internalID: -7840880524545801285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_78
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 653
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99be589d84597710800000000000000
+      internalID: 1691476102177798557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_79
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 653
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc28116dfe7c78b0800000000000000
+      internalID: -5153104246897890112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_80
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 657
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42abe2454c4a81540800000000000000
+      internalID: 4978910551190977060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_81
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 584
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0fc6829163283a0800000000000000
+      internalID: -6664705016874602267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_82
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 654
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84581bcf9a63bd060800000000000000
+      internalID: 6979232151257580872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_83
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 654
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca76f0b118152d120800000000000000
+      internalID: 2437099963307485100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_84
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 653
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be81195cf4c115c0800000000000000
+      internalID: -4246396385528541513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_85
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 600
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13140c0325ca7970800000000000000
+      internalID: 8753525580064101147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_86
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 653
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cca08eb0bee9160800000000000000
+      internalID: 7034318104369482838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_87
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 658
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593260d676d931a20800000000000000
+      internalID: 3031940041686786965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_88
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 655
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b648bd1b73cda6600800000000000000
+      internalID: 462424043524162667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_89
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 629
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07df983ea47728bd0800000000000000
+      internalID: -2629408068902191760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_90
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 629
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d83c2bc019eabd10800000000000000
+      internalID: 2142280831105513682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_91
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 628
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f11d57389e91abb0800000000000000
+      internalID: -4926482140765548039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_92
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 629
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24921691baa036940800000000000000
+      internalID: 5288082117444577602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 632
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c946a441cfdd6430800000000000000
+      internalID: 3777921683607144899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_94
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 629
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88e441875e804890800000000000000
+      internalID: -7475818874952947571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_95
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 634
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baae67fa8fb683440800000000000000
+      internalID: 4915797709114763947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 630
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39113857fd5b823f0800000000000000
+      internalID: -925289752070778477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_97
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 628
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9126249e4b4a6cab0800000000000000
+      internalID: -4988118440351735271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_98
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 629
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ec89fe2afc27960800000000000000
+      internalID: 7598363820038868515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_99
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 630
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96249e291723a4590800000000000000
+      internalID: -7689277950404246935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_100
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 628
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c59b92b95a94c910800000000000000
+      internalID: 1856778656422794690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_101
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 629
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b932b111e4b8f1c0800000000000000
+      internalID: -4469623751407683151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_102
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 628
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b905b79d6f3fb16e0800000000000000
+      internalID: -1865629379078696805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_103
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 635
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8032897aaa8332fd0800000000000000
+      internalID: -2367986673459387640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141851a7e555f45c0800000000000000
+      internalID: -4229067660814089919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_105
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 607
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9837f0026d15e4bf0800000000000000
+      internalID: -338242941903473783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_106
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 606
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1f3c26500c28d30800000000000000
+      internalID: 4432316112650367422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_107
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 606
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca92d605a1acb190800000000000000
+      internalID: -7945297912432256305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_108
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 606
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bfb1c610b2b58e0800000000000000
+      internalID: -1703720748920865969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_109
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 922
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080b4ef1efd7de630800000000000000
+      internalID: 3957958177938780288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_110
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 582
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4963eaae99dc7f80800000000000000
+      internalID: -8107365953678644915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_111
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 583
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa288014162c55ee0800000000000000
+      internalID: -1272897596703604049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_112
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 582
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c52a147e6fde2050800000000000000
+      internalID: 5777801037450192329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 582
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fba98f0b6abb3ac0800000000000000
+      internalID: -3874298085437232141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_114
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 581
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e19425b42c6b2a0800000000000000
+      internalID: -6721971765045027316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5330d5f5dc2fcd0800000000000000
+      internalID: -2525730631535348299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_116
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 559
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab3f0f5768d35110800000000000000
+      internalID: 1248579460199824292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_117
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 559
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d9a4f9ae0390b0800000000000000
+      internalID: -5723214578340734506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_118
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 560
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35f05d36fd7166f0800000000000000
+      internalID: -693134371094203073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_119
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 535
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7690584c94fa63370800000000000000
+      internalID: 8302015694468614503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_120
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 512
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38aced4cf8a77920800000000000000
+      internalID: 2988042679376193597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_121
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 535
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60893260c6ecaa60800000000000000
+      internalID: 7686772377970638957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_122
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 537
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1b41c28a77109a0800000000000000
+      internalID: -6268597642145254913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_123
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 535
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db566309fc12bc970800000000000000
+      internalID: 8776145474222974397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_124
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 536
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e23ec4a79231c70800000000000000
+      internalID: 8940535290513272449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b9540ef8a4242b0800000000000000
+      internalID: -5601833004692038781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_126
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 516
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302e75a9d3a2bd560800000000000000
+      internalID: 7339506461801177603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_127
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 512
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7faf3d6d9e802820800000000000000
+      internalID: 2891467767565758331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_128
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 513
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f19da97e100a2190800000000000000
+      internalID: -7986570858297716234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_129
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 488
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc15c90ac27b4600800000000000000
+      internalID: 453582399553739954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_130
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 488
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92fc2cef69434560800000000000000
+      internalID: 7296756566322901659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_131
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 488
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511265104158831c0800000000000000
+      internalID: -4523719504725401323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_132
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 488
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e9fc65070e390a0800000000000000
+      internalID: -6875905432967209430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_133
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 487
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cadced293c507e40800000000000000
+      internalID: 5652118933003360960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_134
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 491
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1c0075c7e591a90800000000000000
+      internalID: -7342733829322259984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927c1fd7d003bd1d0800000000000000
+      internalID: -3325011065377274071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_136
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 466
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ed74d84f8adc460800000000000000
+      internalID: 7263647542314262026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 466
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feff820a232e5dc0800000000000000
+      internalID: -3648439984784933132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_138
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 465
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6509f2454231390800000000000000
+      internalID: -7848889781582801172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_139
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 465
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82574e97d57c2e2b0800000000000000
+      internalID: -5556659785930869464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_140
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 465
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cbc325ec6edd670800000000000000
+      internalID: 8565255840145914948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716d6c89987d01260800000000000000
+      internalID: 7066384801317967383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_142
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 438
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9514f9a7a0202d0800000000000000
+      internalID: -3314074854017115680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_143
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 441
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5911f37c2657bf90800000000000000
+      internalID: -6937981952017229474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_144
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 437
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d48d6a38bb2ddd0800000000000000
+      internalID: -2462699872103936680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_145
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 437
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4513f0c18628c3d0800000000000000
+      internalID: -3186254397634833075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_146
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 437
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf3872964d6324c0800000000000000
+      internalID: -4313483868218310709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_147
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 437
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3c3f1624f0e5460800000000000000
+      internalID: 7232234829389218808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412bb63b4f17be40800000000000000
+      internalID: 5672036663597670730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_149
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 414
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f2f81954577ffd0800000000000000
+      internalID: -2308247342348816518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_150
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 412
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1d31685341d02b0800000000000000
+      internalID: -5616810940145872405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_151
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 411
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cc77329fd7e25d0800000000000000
+      internalID: -3085390185706828794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_152
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 411
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0da0c984941c3450800000000000000
+      internalID: 6069749025987407118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_153
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 411
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbad579b711e6eb40800000000000000
+      internalID: 5469306289500052155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_154
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 414
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450971f34ff495ac0800000000000000
+      internalID: -3865970894671736748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_155
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 385
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2acd62c601fd390800000000000000
+      internalID: -7791490773633162518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_156
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 384
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadb7b9af3d9355d0800000000000000
+      internalID: -3074941223808025170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_157
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 384
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daefb8e6dd458cc10800000000000000
+      internalID: 2074000938423287469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_158
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 384
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611cb9c1b9ab54620800000000000000
+      internalID: 2757815522196963606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_159
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 394
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d187bb8ba25493740800000000000000
+      internalID: 5132209300155627549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_160
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 394
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7d6d8e723115b80800000000000000
+      internalID: -8407917967192959039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_161
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 385
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305e50ecd7e5a3b60800000000000000
+      internalID: 7726592005127922947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505136a1c29a8450800000000000000
+      internalID: 6091842806386610270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_163
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 362
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c29fdceab940550800000000000000
+      internalID: 6126192568212991093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b717e310e50be600800000000000000
+      internalID: 498498643719296948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_165
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 358
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d1464d938749330800000000000000
+      internalID: 3716727782259301634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_166
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 358
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551dd497c401de2e0800000000000000
+      internalID: -2095000331018710699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_167
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 362
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78017b979c7bbe7a0800000000000000
+      internalID: -6346777173890232185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2f7f7f2d59eb700800000000000000
+      internalID: 558048137176412886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_169
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 338
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bafa860278c42de0800000000000000
+      internalID: -1358740795497448783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_170
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 337
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e319a1c01802b0e0800000000000000
+      internalID: -2255731595297614877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_171
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 337
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494dfa34281a94940800000000000000
+      internalID: 5280929618922034324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_172
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 337
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa2e9d8204775030800000000000000
+      internalID: 3483380391109077664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_173
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c65c5160a70bdf0800000000000000
+      internalID: -166499019659056021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_174
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 312
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aff7a4cc12781e0800000000000000
+      internalID: -2195749132012881362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_175
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 313
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3066f8494c82f6820800000000000000
+      internalID: 2913592308703127043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_176
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 317
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856fb486d916e3680800000000000000
+      internalID: -8773467695383579048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_177
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 291
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517d74eff20a0e940800000000000000
+      internalID: 5323430887541954325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_178
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 292
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de95f209247407250800000000000000
+      internalID: 5940326259714120173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_179
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 290
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d8a4eb0ec2e7be0800000000000000
+      internalID: -1477694283954090719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_180
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 239
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14dbfb2991f74ea0800000000000000
+      internalID: -5888472347593419746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_181
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc614741e5f1da260800000000000000
+      internalID: 7110373875618420431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_182
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 292
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4a9490a7887de90800000000000000
+      internalID: -7000977038000937757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_183
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 290
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e6890e82d161370800000000000000
+      internalID: 8292847825253330506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_184
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 275
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a118510db6ea31150800000000000000
+      internalID: 5842204919705469210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_185
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 270
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fad8b1b012c64120800000000000000
+      internalID: 2397817228578314994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_186
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 266
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24916dc486d5b4be0800000000000000
+      internalID: -1491996148996105918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5082a63ade2c2fc0800000000000000
+      internalID: -3518385694128832422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_188
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 244
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1154a3272b7a17c60800000000000000
+      internalID: 7814211213326959889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_189
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 244
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db299425eccb4db0800000000000000
+      internalID: -4806522892754277417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_190
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 243
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d2a444d1fd71900800000000000000
+      internalID: 655237587598454042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_191
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 241
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ffe27b960ade6d0800000000000000
+      internalID: -2959533004207227071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_192
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 219
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fe384895fd7a5c0800000000000000
+      internalID: -4204146151558746348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_193
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 228
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db7284c152e9d40800000000000000
+      internalID: 5592948590640610653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_194
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 218
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffda08e4e7d20f730800000000000000
+      internalID: 4030771687002779135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_195
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 220
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10a038464af6e2d0800000000000000
+      internalID: -3249634901335433186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_196
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 196
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d4c12af6200bf80800000000000000
+      internalID: -8092965851900392086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe0abd8446c70a50800000000000000
+      internalID: 6487371785988345534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_198
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 175
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897c6622f041fbeb0800000000000000
+      internalID: -4702017430717282408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_199
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 174
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ca8e5f90a692770800000000000000
+      internalID: 8586510755571477557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_200
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 173
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37c1681884ab4cb0800000000000000
+      internalID: -4878624866894231748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_201
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 175
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2916ab9305605d380800000000000000
+      internalID: -8947238143065955950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_202
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 175
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710c2128440949630800000000000000
+      internalID: 3932926998515728407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_203
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddd0b0160ed17f20800000000000000
+      internalID: 3418757709782113749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_204
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3df7803b17a87d0800000000000000
+      internalID: -2915392795013295106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_205
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ccd891fc6aa2730800000000000000
+      internalID: 3975173029525048341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_206
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c704d39f31db800f0800000000000000
+      internalID: -1150461811309592452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_207
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 101
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40916202cf62f60b0800000000000000
+      internalID: -5733320936306370300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_208
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 101
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7844c12fc1e1db7b0800000000000000
+      internalID: -5206972484500568953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_209
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1922287fdfc1170800000000000000
+      internalID: 8150668665115808184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_210
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 72
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17a00e98d0ede0a0800000000000000
+      internalID: -6850572237192255714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_211
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 77
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7122358fa291dc0800000000000000
+      internalID: -3667853175481559104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_212
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2726506cc0eea9650800000000000000
+      internalID: 6240561972304503410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_213
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 80
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2be15a8a3314230800000000000000
+      internalID: 3621232374800364222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_214
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 77
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b058572a5efec8790800000000000000
+      internalID: -7526377107690781429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_215
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 77
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e81ebeed9f0d9b0800000000000000
+      internalID: -5057267645701583254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_216
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 75
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6688c88e98ac31ea0800000000000000
+      internalID: -5903151992891733914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_217
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80024228c01550c40800000000000000
+      internalID: 5477873635930939400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_218
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 50
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3dbded583ebadb0800000000000000
+      internalID: -4779476415414545457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_219
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 52
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7624af4e4dc416b40800000000000000
+      internalID: 5431707102843912807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_220
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 52
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadecfac5c1cd81d0800000000000000
+      internalID: -3346805892808118867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_221
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e89f0f48390e8c0800000000000000
+      internalID: -3972012672152924548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_222
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3783043cc08c36bb0800000000000000
+      internalID: -4943888008781744013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_223
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f3f12eed6963e50800000000000000
+      internalID: 6788779372328206174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_224
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 0
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2509d56fde020c40800000000000000
+      internalID: 5476956449485161772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama1_225
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49010b2468e88c80800000000000000
+      internalID: -8320144794651129523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      patlama1_0: -8784807492819786060
+      patlama1_1: 2615914531805717628
+      patlama1_10: -8983391743805205575
+      patlama1_100: 1856778656422794690
+      patlama1_101: -4469623751407683151
+      patlama1_102: -1865629379078696805
+      patlama1_103: -2367986673459387640
+      patlama1_104: -4229067660814089919
+      patlama1_105: -338242941903473783
+      patlama1_106: 4432316112650367422
+      patlama1_107: -7945297912432256305
+      patlama1_108: -1703720748920865969
+      patlama1_109: 3957958177938780288
+      patlama1_11: 8235648337649559186
+      patlama1_110: -8107365953678644915
+      patlama1_111: -1272897596703604049
+      patlama1_112: 5777801037450192329
+      patlama1_113: -3874298085437232141
+      patlama1_114: -6721971765045027316
+      patlama1_115: -2525730631535348299
+      patlama1_116: 1248579460199824292
+      patlama1_117: -5723214578340734506
+      patlama1_118: -693134371094203073
+      patlama1_119: 8302015694468614503
+      patlama1_12: -7775267656202480586
+      patlama1_120: 2988042679376193597
+      patlama1_121: 7686772377970638957
+      patlama1_122: -6268597642145254913
+      patlama1_123: 8776145474222974397
+      patlama1_124: 8940535290513272449
+      patlama1_125: -5601833004692038781
+      patlama1_126: 7339506461801177603
+      patlama1_127: 2891467767565758331
+      patlama1_128: -7986570858297716234
+      patlama1_129: 453582399553739954
+      patlama1_13: 3977086918530071815
+      patlama1_130: 7296756566322901659
+      patlama1_131: -4523719504725401323
+      patlama1_132: -6875905432967209430
+      patlama1_133: 5652118933003360960
+      patlama1_134: -7342733829322259984
+      patlama1_135: -3325011065377274071
+      patlama1_136: 7263647542314262026
+      patlama1_137: -3648439984784933132
+      patlama1_138: -7848889781582801172
+      patlama1_139: -5556659785930869464
+      patlama1_14: 1441705288554518009
+      patlama1_140: 8565255840145914948
+      patlama1_141: 7066384801317967383
+      patlama1_142: -3314074854017115680
+      patlama1_143: -6937981952017229474
+      patlama1_144: -2462699872103936680
+      patlama1_145: -3186254397634833075
+      patlama1_146: -4313483868218310709
+      patlama1_147: 7232234829389218808
+      patlama1_148: 5672036663597670730
+      patlama1_149: -2308247342348816518
+      patlama1_15: 3476848555560474954
+      patlama1_150: -5616810940145872405
+      patlama1_151: -3085390185706828794
+      patlama1_152: 6069749025987407118
+      patlama1_153: 5469306289500052155
+      patlama1_154: -3865970894671736748
+      patlama1_155: -7791490773633162518
+      patlama1_156: -3074941223808025170
+      patlama1_157: 2074000938423287469
+      patlama1_158: 2757815522196963606
+      patlama1_159: 5132209300155627549
+      patlama1_16: -8997255013126501644
+      patlama1_160: -8407917967192959039
+      patlama1_161: 7726592005127922947
+      patlama1_162: 6091842806386610270
+      patlama1_163: 6126192568212991093
+      patlama1_164: 498498643719296948
+      patlama1_165: 3716727782259301634
+      patlama1_166: -2095000331018710699
+      patlama1_167: -6346777173890232185
+      patlama1_168: 558048137176412886
+      patlama1_169: -1358740795497448783
+      patlama1_17: 1477586290518896512
+      patlama1_170: -2255731595297614877
+      patlama1_171: 5280929618922034324
+      patlama1_172: 3483380391109077664
+      patlama1_173: -166499019659056021
+      patlama1_174: -2195749132012881362
+      patlama1_175: 2913592308703127043
+      patlama1_176: -8773467695383579048
+      patlama1_177: 5323430887541954325
+      patlama1_178: 5940326259714120173
+      patlama1_179: -1477694283954090719
+      patlama1_18: -4592265475744582239
+      patlama1_180: -5888472347593419746
+      patlama1_181: 7110373875618420431
+      patlama1_182: -7000977038000937757
+      patlama1_183: 8292847825253330506
+      patlama1_184: 5842204919705469210
+      patlama1_185: 2397817228578314994
+      patlama1_186: -1491996148996105918
+      patlama1_187: -3518385694128832422
+      patlama1_188: 7814211213326959889
+      patlama1_189: -4806522892754277417
+      patlama1_19: -6642871147618988860
+      patlama1_190: 655237587598454042
+      patlama1_191: -2959533004207227071
+      patlama1_192: -4204146151558746348
+      patlama1_193: 5592948590640610653
+      patlama1_194: 4030771687002779135
+      patlama1_195: -3249634901335433186
+      patlama1_196: -8092965851900392086
+      patlama1_197: 6487371785988345534
+      patlama1_198: -4702017430717282408
+      patlama1_199: 8586510755571477557
+      patlama1_2: -1619345162137663465
+      patlama1_20: -8828825706225101070
+      patlama1_200: -4878624866894231748
+      patlama1_201: -8947238143065955950
+      patlama1_202: 3932926998515728407
+      patlama1_203: 3418757709782113749
+      patlama1_204: -2915392795013295106
+      patlama1_205: 3975173029525048341
+      patlama1_206: -1150461811309592452
+      patlama1_207: -5733320936306370300
+      patlama1_208: -5206972484500568953
+      patlama1_209: 8150668665115808184
+      patlama1_21: 7104820209659939176
+      patlama1_210: -6850572237192255714
+      patlama1_211: -3667853175481559104
+      patlama1_212: 6240561972304503410
+      patlama1_213: 3621232374800364222
+      patlama1_214: -7526377107690781429
+      patlama1_215: -5057267645701583254
+      patlama1_216: -5903151992891733914
+      patlama1_217: 5477873635930939400
+      patlama1_218: -4779476415414545457
+      patlama1_219: 5431707102843912807
+      patlama1_22: 7222727995045610874
+      patlama1_220: -3346805892808118867
+      patlama1_221: -3972012672152924548
+      patlama1_222: -4943888008781744013
+      patlama1_223: 6788779372328206174
+      patlama1_224: 5476956449485161772
+      patlama1_225: -8320144794651129523
+      patlama1_23: 4096772324356910112
+      patlama1_24: -6109050721560859025
+      patlama1_25: -66859064702995343
+      patlama1_26: 8189743345255462816
+      patlama1_27: -3210359125004025387
+      patlama1_28: 8944133304378672103
+      patlama1_29: 8342438045668937469
+      patlama1_3: -5754364709684679156
+      patlama1_30: 7481130563146377562
+      patlama1_31: 1647892121341096847
+      patlama1_32: 1515513925019575224
+      patlama1_33: -3827628348435498200
+      patlama1_34: 980075007590125663
+      patlama1_35: 3079399488563677251
+      patlama1_36: -7129991490347975366
+      patlama1_37: -7197253689261279844
+      patlama1_38: 8932450279047860994
+      patlama1_39: 6076743972591510839
+      patlama1_4: -2341429921827271620
+      patlama1_40: -4737521920841912372
+      patlama1_41: 6018336613485238147
+      patlama1_42: 2907738053100310428
+      patlama1_43: 4990539143623284713
+      patlama1_44: 115398452783295116
+      patlama1_45: 6235081744123823105
+      patlama1_46: 2511878854759530872
+      patlama1_47: 7319238705150481614
+      patlama1_48: 1251301540764974155
+      patlama1_49: 2997380237439847618
+      patlama1_5: -8667941003075114966
+      patlama1_50: 6774302463898967244
+      patlama1_51: 147654540653329600
+      patlama1_52: -8589416098313871703
+      patlama1_53: 1310822204065531459
+      patlama1_54: -194605498760404611
+      patlama1_55: 6639683550021832234
+      patlama1_56: 4440065133142785499
+      patlama1_57: 7521703507876816000
+      patlama1_58: 40805384659071133
+      patlama1_59: -3990070638924924598
+      patlama1_6: -578245184494164613
+      patlama1_60: 1523910047562737015
+      patlama1_61: 9135156045236098618
+      patlama1_62: -7405797330265655233
+      patlama1_63: 4806353074713117847
+      patlama1_64: -3043056484969857234
+      patlama1_65: 7734853691412655249
+      patlama1_66: -2065002638616879100
+      patlama1_67: -3055307997991717661
+      patlama1_68: -3151164848701301792
+      patlama1_69: -7574046524370051887
+      patlama1_7: -7254761645154805371
+      patlama1_70: 6846985277486060776
+      patlama1_71: 2178985774198590860
+      patlama1_72: -193630755753591866
+      patlama1_73: 639395441344677953
+      patlama1_74: -1290914711211553954
+      patlama1_75: -3806648840583481223
+      patlama1_76: 3366741133050587374
+      patlama1_77: -7840880524545801285
+      patlama1_78: 1691476102177798557
+      patlama1_79: -5153104246897890112
+      patlama1_8: 7617799528067455195
+      patlama1_80: 4978910551190977060
+      patlama1_81: -6664705016874602267
+      patlama1_82: 6979232151257580872
+      patlama1_83: 2437099963307485100
+      patlama1_84: -4246396385528541513
+      patlama1_85: 8753525580064101147
+      patlama1_86: 7034318104369482838
+      patlama1_87: 3031940041686786965
+      patlama1_88: 462424043524162667
+      patlama1_89: -2629408068902191760
+      patlama1_9: 3611312518347566517
+      patlama1_90: 2142280831105513682
+      patlama1_91: -4926482140765548039
+      patlama1_92: 5288082117444577602
+      patlama1_93: 3777921683607144899
+      patlama1_94: -7475818874952947571
+      patlama1_95: 4915797709114763947
+      patlama1_96: -925289752070778477
+      patlama1_97: -4988118440351735271
+      patlama1_98: 7598363820038868515
+      patlama1_99: -7689277950404246935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
