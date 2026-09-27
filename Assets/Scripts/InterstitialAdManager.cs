@@ -1,3 +1,4 @@
+
 using UnityEngine;
 using GoogleMobileAds.Api;
 using System;
@@ -6,8 +7,15 @@ public class InterstitialAdManager : MonoBehaviour
 {
     private InterstitialAd interstitialAd;
 
-    private const string AndroidTestAdUnitId =
+#if UNITY_IOS
+    private const string InterstitialAdUnitId =
+        "ca-app-pub-3940256099942544/4411468910";
+#elif UNITY_ANDROID
+    private const string InterstitialAdUnitId =
         "ca-app-pub-3940256099942544/1033173712";
+#else
+    private const string InterstitialAdUnitId = "";
+#endif
 
     private Action onAdClosed;
 
@@ -21,10 +29,16 @@ public class InterstitialAdManager : MonoBehaviour
 
     void LoadInterstitialAd()
     {
+        if (string.IsNullOrEmpty(InterstitialAdUnitId))
+        {
+            Debug.LogWarning("Bu platform için reklam ID'si tanımlı değil.");
+            return;
+        }
+
         AdRequest request = new AdRequest();
 
         InterstitialAd.Load(
-            AndroidTestAdUnitId,
+            InterstitialAdUnitId,
             request,
             (InterstitialAd ad, LoadAdError error) =>
             {

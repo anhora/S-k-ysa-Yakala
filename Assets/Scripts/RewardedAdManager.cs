@@ -1,3 +1,4 @@
+
 using UnityEngine;
 using GoogleMobileAds.Api;
 
@@ -8,9 +9,17 @@ public class RewardedAdManager : MonoBehaviour
     // GameManager referansı
     public GameManager gameManager;
 
-    // Google'ın TEST Rewarded reklam ID'si
-    private const string AndroidTestAdUnitId =
+#if UNITY_IOS
+    // Google TEST Rewarded reklam ID - iOS
+    private const string RewardedAdUnitId =
+        "ca-app-pub-3940256099942544/1712485313";
+#elif UNITY_ANDROID
+    // Google TEST Rewarded reklam ID - Android
+    private const string RewardedAdUnitId =
         "ca-app-pub-3940256099942544/5224354917";
+#else
+    private const string RewardedAdUnitId = "";
+#endif
 
     void Start()
     {
@@ -22,10 +31,19 @@ public class RewardedAdManager : MonoBehaviour
 
     void LoadRewardedAd()
     {
+        if (string.IsNullOrEmpty(RewardedAdUnitId))
+        {
+            Debug.LogWarning(
+                "Bu platform için Rewarded reklam ID'si tanımlı değil."
+            );
+
+            return;
+        }
+
         AdRequest request = new AdRequest();
 
         RewardedAd.Load(
-            AndroidTestAdUnitId,
+            RewardedAdUnitId,
             request,
             (RewardedAd ad, LoadAdError error) =>
             {
@@ -34,6 +52,7 @@ public class RewardedAdManager : MonoBehaviour
                     Debug.LogError(
                         "Rewarded reklam yüklenemedi: " + error
                     );
+
                     return;
                 }
 
@@ -55,7 +74,8 @@ public class RewardedAdManager : MonoBehaviour
                     (AdError adError) =>
                     {
                         Debug.LogError(
-                            "Rewarded reklam gösterilemedi: " + adError
+                            "Rewarded reklam gösterilemedi: " +
+                            adError
                         );
 
                         rewardedAd = null;
@@ -67,7 +87,8 @@ public class RewardedAdManager : MonoBehaviour
 
     public void ShowRewardedAd()
     {
-        if (rewardedAd != null && rewardedAd.CanShowAd())
+        if (rewardedAd != null &&
+            rewardedAd.CanShowAd())
         {
             rewardedAd.Show((Reward reward) =>
             {
