@@ -1,17 +1,21 @@
 using UnityEditor;
-using UnityEditor.Callbacks;
-using UnityEngine;
+using UnityEditor.Build;
+using UnityEditor.Build.Reporting;
 
-public static class ForceIOSBuildNumber
+public class ForceIOSBuildNumber : IPreprocessBuildWithReport
 {
-    [InitializeOnLoadMethod]
-    private static void ForceBuildNumber()
+    public int callbackOrder => 0;
+
+    public void OnPreprocessBuild(BuildReport report)
     {
-        if (EditorUserBuildSettings.activeBuildTarget == BuildTarget.iOS)
+        if (report.summary.platform == BuildTarget.iOS)
         {
-            PlayerSettings.iOS.buildNumber = "1";
+            PlayerSettings.iOS.buildNumber = "2";
             PlayerSettings.bundleVersion = "1.0";
-            Debug.Log("iOS build number zorlandı: 1");
+
+            UnityEngine.Debug.Log(
+                "FORCE IOS BUILD NUMBER: Version = 1.0, Build = 2"
+            );
         }
     }
 }
