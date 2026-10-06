@@ -1,26 +1,12 @@
 using UnityEditor;
-using UnityEditor.iOS.Xcode;
-using System.IO;
+using UnityEngine;
 
 public static class ForceIOSBuildNumber
 {
-    public static void SetBuildNumberAfterExport(string exportPath)
+    public static void SetBuildNumberBeforeExport()
     {
-        string plistPath = Path.Combine(exportPath, "Info.plist");
-
-        if (!File.Exists(plistPath))
-        {
-            UnityEngine.Debug.LogError("Info.plist bulunamadı: " + plistPath);
-            return;
-        }
-
-        PlistDocument plist = new PlistDocument();
-        plist.ReadFromFile(plistPath);
-
-        plist.root.SetString("CFBundleVersion", "1");
-
-        plist.WriteToFile(plistPath);
-
-        UnityEngine.Debug.Log("iOS CFBundleVersion zorlandı: 1");
+        PlayerSettings.iOS.buildNumber = "1";
+        PlayerSettings.bundleVersion = "1.0";
+        Debug.Log("iOS build number export öncesi zorlandı: 1");
     }
 }
