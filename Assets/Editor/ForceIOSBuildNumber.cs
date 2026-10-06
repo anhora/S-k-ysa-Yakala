@@ -1,12 +1,17 @@
 using UnityEditor;
+using UnityEditor.Callbacks;
 using UnityEngine;
 
 public static class ForceIOSBuildNumber
 {
-    public static void SetBuildNumberBeforeExport()
+    [InitializeOnLoadMethod]
+    private static void ForceBuildNumber()
     {
-        PlayerSettings.iOS.buildNumber = "1";
-        PlayerSettings.bundleVersion = "1.0";
-        Debug.Log("iOS build number export öncesi zorlandı: 1");
+        if (EditorUserBuildSettings.activeBuildTarget == BuildTarget.iOS)
+        {
+            PlayerSettings.iOS.buildNumber = "1";
+            PlayerSettings.bundleVersion = "1.0";
+            Debug.Log("iOS build number zorlandı: 1");
+        }
     }
 }
