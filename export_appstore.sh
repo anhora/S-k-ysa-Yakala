@@ -17,7 +17,20 @@ cat > "$EXPORT_OPTIONS" <<'PLIST'
 <plist version="1.0">
 <dict>
     <key>method</key>
-    <string>app-store</string>
+    <string>app-store-connect</string>
+
+    <key>signingStyle</key>
+    <string>manual</string>
+
+    <key>teamID</key>
+    <string>337ZS9K4W4</string>
+
+    <key>provisioningProfiles</key>
+    <dict>
+        <key>com.abdullahmermer.sikiysayakala</key>
+        <string>SikiysaYakala</string>
+    </dict>
+
     <key>generateAppStoreInformation</key>
     <true/>
 </dict>
